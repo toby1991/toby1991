@@ -9,4 +9,4 @@ I ❤ Open Source. I love [Go](https://golang.org)
 * Coding poet
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toby1991&theme=vue&hide=html)
-![Toby's github stats](https://github-readme-stats.vercel.app/api?username=toby1991&include_all_commits=true&theme=slateorange&show_icons=true&count_private=true&line_height=40)
+![Toby's github stats](https://github-readme-stats.vercel.app/api?username=toby1991&include_all_commits=true&theme=slateorange&show_icons=true&count_private=true&line_height=50)
